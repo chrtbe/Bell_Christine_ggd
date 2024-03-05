@@ -1,0 +1,38 @@
+# Ignore Visual Studio files
+.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore SFML dependencies
+SFML.NET/
+
+# Ignore any logs or temporary files
+*.log
+*.tmp
+
+# Ignore ReSharper files
+_ReSharper*/
+*.resharper*
+
+# Ignore MonoDevelop files
+*.pidb
+*.userprefs
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Windows folder config file
+Thumbs.db
+
+# Ignore any Visual Studio Code specific files
+.vscode/
